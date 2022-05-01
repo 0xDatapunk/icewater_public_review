@@ -1,0 +1,3 @@
+forge-std/=foundry_lib/forge-std/src/
+@openzeppelin=foundry_lib/openzeppelin-contracts/
+ds-test/=foundry_lib/ds-test/src/
